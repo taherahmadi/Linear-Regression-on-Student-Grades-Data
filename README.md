@@ -1,6 +1,5 @@
 # Linear-Regression-on-Student-Grades-Data
 ##Implementing and Analysing Linear Regression on a Data Set of Student Grades
-<h3>Implementing and Analysing Linear Regression on a Data Set of Student Grades</h3>
 <div class="col-sm-4 col-md-4" style="margin-left: -15px;">
 <div class="panel panel-default">
     <div class="panel-body">
